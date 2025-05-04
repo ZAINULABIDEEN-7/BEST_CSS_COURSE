@@ -50,7 +50,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/css-mastery.git
+git clone https://github.com/ZAINULABIDEEN-7/BEST_CSS_COURSE.git
 cd css-mastery
 Explore the course folder-by-folder:
 Each folder corresponds to a module. Open index.html inside each for the lesson demo.
